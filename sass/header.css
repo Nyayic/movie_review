@@ -1,0 +1,21 @@
+#header {
+  background-color: #3d3d3d;
+}
+#header #site-name a {
+  color: #ffffff;
+}
+
+.contextual-links-region .panel-pane .pane-block .pane-menu-menu-header-menu .pane-content ul li {
+  list-style: none;
+}
+.contextual-links-region .panel-pane .pane-block .pane-menu-menu-header-menu ul li a {
+  text-decoration: none;
+  display: inline-block;
+}
+
+#block-menu-menu-header-menu {
+  width: -webkit-max-content;
+  width: -moz-max-content;
+  width: max-content;
+  display: flex;
+}/*# sourceMappingURL=header.css.map */

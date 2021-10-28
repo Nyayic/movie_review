@@ -1,0 +1,20 @@
+#header{
+    background-color: #3d3d3d;
+    #site-name a{
+        color: #ffffff;
+    }
+        
+}
+.contextual-links-region .panel-pane .pane-block .pane-menu-menu-header-menu{
+    .pane-content ul li{
+        list-style: none;
+    }
+    ul li a{
+        text-decoration: none;
+        display: inline-block;
+    }
+}
+#block-menu-menu-header-menu{
+    width: max-content;
+    display: flex;
+}
