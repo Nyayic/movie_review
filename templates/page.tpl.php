@@ -119,6 +119,7 @@
             <?php print $site_slogan; ?>
           </div>
         <?php endif; ?>
+        <div class="header-menu"></div>
 
       </div> <!-- /#name-and-slogan -->
     <?php endif; ?>

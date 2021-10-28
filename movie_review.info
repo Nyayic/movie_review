@@ -14,6 +14,7 @@ stylesheets[all][] = sass/header.css
 stylesheets[print][] = css/print.css
 
 regions[header] = Header
+regions[header-menu] = Header Menu
 regions[help] = Help
 regions[page_top] = Page top
 regions[page_bottom] = Page bottom
