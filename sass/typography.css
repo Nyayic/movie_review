@@ -1,9 +1,4 @@
 body {
-  /* font-family: "Bebas Neue", cursive; */
-  color: #4b4b4b;
-}/*# sourceMappingURL=typography.css.map */
-@media screen and (max-width: 480px) {
-  #page {
-    width: 480px;
-  }
+  font-family: 'Bebas Neue', cursive;
 }
+/*# sourceMappingURL=typography.css.map */

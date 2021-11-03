@@ -1,6 +1,7 @@
 #header {
   background-color: #000;
 }
+
 #header #site-name a {
   color: #ffffff;
 }
@@ -8,6 +9,7 @@
 .site-logo {
   width: 25%;
 }
+
 .site-logo img {
   width: 90%;
   background: #d6d4d6;
@@ -85,4 +87,5 @@
   border-bottom: 1px #4b4b4b solid 0px;
   padding: 10px;
   padding-top: 20px;
-}/*# sourceMappingURL=header.css.map */
+}
+/*# sourceMappingURL=header.css.map */
