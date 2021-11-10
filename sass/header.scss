@@ -1,10 +1,9 @@
 #header{
-    background-color: #000;
-    // background-color: linear-gradient(to bottom #000, #fff);
+    background: linear-gradient(182deg, rgba(2,0,36,1) 0%, rgba(0,0,0,1) 35%, rgba(147,149,150,1) 100%) !important;
     #site-name a{
         color: #ffffff;
     }
-        
+
 }
 
 .site-logo{
@@ -31,7 +30,7 @@
 	border-radius: 0;
 }
 #main-menu ul li a:hover {
-    background: #000;
+    // background: #000;
     color: #4b4b4b;
 }
 
@@ -79,9 +78,9 @@
     color: #4b4b4b;
 }
 .views-field-title{
-    border-bottom: 1px #4b4b4b solid 0px;
-    padding: 10px;
-    padding-top: 20px;
+    border-bottom: 1px #4b4b4b solid;
+     // padding: 10px;
+    // padding-top: 20px;
 }
 
 // News Page

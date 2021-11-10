@@ -1,6 +1,6 @@
 #footer-wrapper {
   color: #fff;
   font-size: 0.857em;
-  background: #000;
+  background: linear-gradient(182deg, rgba(2,0,36,1) 0%, rgba(0,0,0,1) 35%, rgba(147,149,150,1) 100%) !important;
 }
 /*# sourceMappingURL=footer.css.map */
